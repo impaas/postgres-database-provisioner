@@ -1,0 +1,7 @@
+id: postgres
+description: Postgres database service
+team: admin
+username: svc_impaas_postgres
+password: super_secure_password
+endpoint:
+  production: YOUR_VM_IP:4999
